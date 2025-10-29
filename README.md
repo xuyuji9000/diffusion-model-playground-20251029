@@ -1,4 +1,4 @@
-# stable-diffusion-playground-20251029
+# diffusion-model-playground-20251029
 
 This is a playground repository.
 
